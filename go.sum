@@ -1,0 +1,6 @@
+github.com/golang/protobuf v1.3.1 h1:YF8+flBXS5eO826T4nzqPrxfhQThhXl0YzfuUPu4SBg=
+github.com/golang/protobuf v1.3.1/go.mod h1:6lQm79b+lXiMfvg/cZm0SGofjICqVBUtrP5yJMmIC1U=
+github.com/jgoodall/pb-test-two/v2 v2.0.0-20190612182934-890e4cff5460 h1:Q8j6MMIw92itRuqsugWd/IgT1VnZWbfR21ysiOwDiRo=
+github.com/jgoodall/pb-test-two/v2 v2.0.0-20190612182934-890e4cff5460/go.mod h1:P8NbPpWeTFEGneNPbXqDUgxWYTy8h4SFBGRvYjhJFis=
+github.com/jgoodall/pb-test-two/v2 v2.0.0 h1:6F19mk+wTYJ9BlnGJUxgIIPvkF0P6CISB8fr3v6J9Os=
+github.com/jgoodall/pb-test-two/v2 v2.0.0/go.mod h1:P8NbPpWeTFEGneNPbXqDUgxWYTy8h4SFBGRvYjhJFis=

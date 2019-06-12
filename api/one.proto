@@ -1,3 +1,5 @@
+// go get github.com/jgoodall/pb-test-two/v2
+// protoc -I api -I `go list -f '{{ .Dir }}' -m github.com/jgoodall/pb-test-two/v2`/api --go_out=plugins=grpc,paths=source_relative:api api/one.proto
 syntax = "proto3";
 
 package one.api;

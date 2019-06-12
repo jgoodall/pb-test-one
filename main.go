@@ -2,9 +2,11 @@ package main
 
 import (
 	"fmt"
+
+	"github.com/jgoodall/pb-test-one/v2/api"
 )
 
 func main() {
-	thing := "test string"
-	fmt.Printf("%s\n", thing)
+	thing := api.TestOneTwo{TestOne: "thing one", TestTwo: false}
+	fmt.Printf("%+v\n", thing)
 }
