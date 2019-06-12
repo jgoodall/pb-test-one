@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+package one.api;
+option go_package = "github.com/jgoodall/pb-test-one/v2/api";
+
+import "two.proto";
+
+message Test {
+    string A = 1;
+    two.api.TestOneTwo B = 2;
+}
